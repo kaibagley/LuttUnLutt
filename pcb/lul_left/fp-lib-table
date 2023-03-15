@@ -1,4 +1,6 @@
 (fp_lib_table
   (version 7)
   (lib (name "zzkeeb")(type "KiCad")(uri "G:/Keyboards/LuttUnLutt/zzkeeb/kicad/zzkeeb.pretty")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "KiCad")(uri "G:/Keyboards/LuttUnLutt/random-keyboard-parts.pretty")(options "")(descr ""))
+  (lib (name "Keebio-Parts")(type "KiCad")(uri "G:/Keyboards/LuttUnLutt/Keebio-Parts.pretty")(options "")(descr ""))
 )
