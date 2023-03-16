@@ -2,30 +2,25 @@
 
 3x5+2 key split orthogonal BLE keyboard
 
-![top](img/lul_top.png)
+This fork is a custom version of weteor's Lütt un Lütt, altered such that it is powered by a pair of LiPO batteries rather than coin cells, and uses MX switches. The full list of features and their changes are shown below.
 
 ## Features
 
-- full BLE, powered by coin cells (CR2032)
-- choc v1 Hotswap sockets
-- encoder
+- full BLE, powered by 3.7v 110mAh LiPO batteries (coin cells (CR2032))
+- MX hotswap sockets (choc v1 hotswap sockets)
+- rotary encoder
 - case files are supplied (stl, dxf, as well as the freecad files)
-- ZMK (with dongle support)
+- supports both nice!nano and pro micro
+- QMK, ZMK, etc. support with pro micro, or ZMK with nice!nano
 - completely open source, permissive license ([CERN-OHL-P](https://cern-ohl.web.cern.ch/home))
 
-### what's left to do?
+## what's left to do?
+
 - fix small hole placement error in case
-- fix battery opening in case
 - fix cap placement on pcb right
+- enable support of Elite-C/Pi
+- fix everything else, early stages of change so there is much to do
 
-### Want one?
+## Credit
 
-All production files you need to build your own board can be found [here](./prod). they are certainly usable, but the case might need some scraping/cutting to properly fit the battery. I will fix that soon
-
-The case is split in two parts connected by cylindrical 3x1.7mm magnets. The bottom case is open by design and ends at a bit under the hotswap sockets. It's meant to be used with self adhesive neopren sheets (2-3mm thick), which are cut to be the same size as the pcb and then glued on top of the underside of the pcb.
-
-### the rest
-
-Everything in this repository is free to use however you might see fit. If you want to support me and my projects, please consider linking back to this repository if you build/change/use anything.
-
-If you would like to send me a tip, you could do it [here](https://ko-fi.com/weteor) (Please don't feel like you have to).
+This repo is forked from weteor/LuttunLutt, please visit the link at the top left of the page to view the original, and support the creator.
