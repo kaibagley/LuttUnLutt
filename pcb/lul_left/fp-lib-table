@@ -3,4 +3,5 @@
   (lib (name "zzkeeb")(type "KiCad")(uri "G:/Keyboards/LuttUnLutt/zzkeeb/kicad/zzkeeb.pretty")(options "")(descr ""))
   (lib (name "random-keyboard-parts")(type "KiCad")(uri "G:/Keyboards/LuttUnLutt/random-keyboard-parts.pretty")(options "")(descr ""))
   (lib (name "Keebio-Parts")(type "KiCad")(uri "G:/Keyboards/LuttUnLutt/Keebio-Parts.pretty")(options "")(descr ""))
+  (lib (name "nice-nano-kicad")(type "KiCad")(uri "G:/Keyboards/LuttUnLutt/nice-nano-kicad")(options "")(descr ""))
 )
