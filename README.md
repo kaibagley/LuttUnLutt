@@ -6,6 +6,7 @@ This fork is a custom version of weteor's Lütt un Lütt, altered such that it i
 
 ## Features
 
+- Diode-less pcb, since there are enough GPIO pins on the nice!nano
 - full BLE, powered by 3.7v 110mAh LiPO batteries (coin cells (CR2032))
 - MX hotswap sockets (choc v1 hotswap sockets)
 - rotary encoder
