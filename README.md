@@ -1,4 +1,4 @@
-### Lütt un Lütt
+### 
 
 3x5+2 key split orthogonal BLE keyboard
 
@@ -23,4 +23,4 @@ This fork is a custom version of weteor's Lütt un Lütt, altered such that it i
 
 ## Credit
 
-This repo is forked from weteor/LuttunLutt, please visit the link at the top left of the page to view the original, and support the creator.
+This repo is inspired by weteor's Lütt un Lütt, please visit this link: https://github.com/weteor/LuttUnLutt to view the original, and support the creator.
