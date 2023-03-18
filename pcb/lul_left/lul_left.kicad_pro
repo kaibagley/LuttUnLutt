@@ -475,6 +475,22 @@
       {
         "netclass": "Power",
         "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "BAT_R"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "BAT_L"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "RAW_R"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "RAW_L"
       }
     ]
   },
