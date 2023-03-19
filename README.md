@@ -13,10 +13,15 @@ This fork is a custom version of weteor's Lütt un Lütt, altered such that it i
 - supports both nice!nano and pro micro
 - QMK, ZMK, etc. support with pro micro, or ZMK with nice!nano
 
+## Prototype
+
+- First prototype printed on 18th March 2023
+
 ## what's left to do?
 
 - fix small hole placement error in case
-- enable support of Elite-C/Pi
+- implement support of Elite-C/Pi
+- add mounting holes
 
 ## Credit
 
