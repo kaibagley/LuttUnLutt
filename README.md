@@ -2,25 +2,26 @@
 
 3x5+2 key split orthogonal BLE keyboard
 
-This fork is a custom version of weteor's Lütt un Lütt, altered such that it is powered by a pair of LiPO batteries rather than coin cells, and uses MX switches. The full list of features and their changes are shown below.
+This fork is a custom version of weteor's Lütt un Lütt, altered such that it is powered by a pair of LiPO batteries rather than coin cells, and uses MX switches.
 
 ## Features
 
 - Diode-less pcb, since there are enough GPIO pins on the nice!nano
-- full BLE, powered by 3.7v 110mAh LiPO batteries (coin cells (CR2032))
-- MX hotswap sockets (choc v1 hotswap sockets)
-- rotary encoder
+- full BLE, powered by 3.7v 110mAh LiPO batteries
+- MX hotswap sockets
 - case files are supplied (stl, dxf, as well as the freecad files)
 - supports both nice!nano and pro micro
 - QMK, ZMK, etc. support with pro micro, or ZMK with nice!nano
-- completely open source, permissive license ([CERN-OHL-P](https://cern-ohl.web.cern.ch/home))
+
+## Prototype
+
+- First prototype printed on 18th March 2023
 
 ## what's left to do?
 
 - fix small hole placement error in case
-- fix cap placement on pcb right
-- enable support of Elite-C/Pi
-- fix everything else, early stages of change so there is much to do
+- implement support of Elite-C/Pi
+- add mounting holes
 
 ## Credit
 
