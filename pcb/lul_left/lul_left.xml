@@ -1,0 +1,821 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>G:\Keyboards\Thunder-Lightning\pcb\lul_left\lul_left.kicad_sch</source>
+    <date>18/03/2023 10:16:14 PM</date>
+    <tool>Eeschema (7.0.0)</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>lul_left.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>JST Connector</value>
+      <footprint>Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e20f6a92-961f-4360-9420-08ca6ed05d88</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>JST Connector</value>
+      <footprint>Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal</footprint>
+      <libsource lib="Connector" part="Conn_01x02_Socket" description="Generic connector, single row, 01x02, script generated"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x02, script generated"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c25eb336-684a-497d-926a-2a58cc4ea743</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e58c7f31-2e54-4f6c-ac50-c3ab53263cc3</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>293270c3-5526-4421-a540-496e40ca8ddc</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f945816c-5f96-49e8-aae2-bc50b6513287</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0c3a82c9-240c-4946-908c-9de2fc628a64</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c6ced0fd-a6c7-4ab9-8051-1d6763988c30</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fbab563f-c249-48a0-9ece-e235b65b4d94</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>0e0f4fac-299c-46f9-9537-94a7d64a0d4e</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4b3d9975-d859-4dfb-af74-a63f6657b053</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>be6e3cfd-733c-4b05-a970-cb48964c6cef</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>19555bbb-9fe2-4d4b-946c-9664673e7f7d</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3d6b260e-b319-4cdd-a525-5819fde4a473</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9c0f0838-fced-4236-86b1-134aacf520a0</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.75U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>630a159b-53b2-47d4-9295-d667f4a83325</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4d4dc39a-908d-48fe-8921-4bcecab507a9</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8f886726-7ae7-4a20-b033-f6973e2bbdcd</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>345ac77c-ea0d-43c2-bc50-eeedebae1625</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8ca5285-b8c3-4015-9caa-564f305e6d8f</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2f9efc98-736e-4063-8480-6102d2189df7</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>6a10d70e-0a9b-4e2e-8582-637018248ca7</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>72b685e4-063b-4ba0-a66e-fd22e287151d</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1.75U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4f942939-e712-4fe4-ac86-04d37d191bad</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>44a67693-8d72-4645-bc00-cd27fdb84f2f</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5c5e5b46-f8b1-411c-8c7d-754dbdcb7cf4</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>026e59c2-84ce-4da5-bc9f-9eb70a8ef61d</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f8d3dfce-85bb-4289-bbea-2d5f160cb60c</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>5a5a652c-cd83-45b2-a67b-bea24ff8fe77</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a1eabbb8-5d9b-4b8a-8921-b88094dfb4e2</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>273a4b95-0d0c-4124-849f-551b5abeccec</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>bb270542-d8c5-4849-97fc-106aa0206a30</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>fa5e362f-486e-4ecc-bea2-aeb1a8a2e28f</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d819d68d-0246-4924-8e81-d8e0f44a8cca</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>64df1695-3610-454d-af24-42a1f6a98002</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>16bc6ea6-4d08-4123-878c-71b2d3a91907</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>SW_Push</value>
+      <footprint>MX_Only:MXOnly-1U-Hotswap</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>481f7dc9-d100-48a8-be6f-db2a903f5938</tstamps>
+    </comp>
+    <comp ref="SW_RESET2">
+      <value>SW_RESET</value>
+      <footprint>random-keyboard-parts:SKQG-1155865</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9fc34b43-90be-45ee-b5b7-898c142eb6a2</tstamps>
+    </comp>
+    <comp ref="SW_RESET_1">
+      <value>SW_RESET</value>
+      <footprint>random-keyboard-parts:SKQG-1155865</footprint>
+      <libsource lib="Switch" part="SW_Push" description="Push button switch, generic, two pins"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Push button switch, generic, two pins"/>
+      <property name="ki_keywords" value="switch normally-open pushbutton push-button"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>abc5c34b-842b-4a68-89d2-7983573ed4b0</tstamps>
+    </comp>
+    <comp ref="SW_SPDT_1">
+      <value>SW_SPDT</value>
+      <footprint>Button_Switch_SMD:SW_SPDT_PCM12</footprint>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4c24f6e9-c285-49f1-88f9-dd1d2815550f</tstamps>
+    </comp>
+    <comp ref="SW_SPDT_2">
+      <value>SW_SPDT</value>
+      <footprint>Button_Switch_SMD:SW_SPDT_PCM12</footprint>
+      <libsource lib="Switch" part="SW_SPDT" description="Switch, single pole double throw"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <property name="ki_description" value="Switch, single pole double throw"/>
+      <property name="ki_keywords" value="switch single-pole double-throw spdt ON-ON"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4e719b65-2c18-4eff-aa4f-28dc6216b0fa</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>nice_nano</value>
+      <footprint>nice-nano-kicad:nice_nano</footprint>
+      <libsource lib="nice_nano" part="nice_nano" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>56e3f158-fe60-4b34-85c0-99ae1c3a5bc8</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>nice_nano</value>
+      <footprint>nice-nano-kicad:nice_nano</footprint>
+      <libsource lib="nice_nano" part="nice_nano" description=""/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="lul_left.kicad_sch"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>07cb2487-afd9-4714-ad41-d745a9eccda2</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="Connector" part="Conn_01x02_Socket">
+      <description>Generic connector, single row, 01x02, script generated</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Socket</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_Push">
+      <description>Push button switch, generic, two pins</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_Push</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Switch" part="SW_SPDT">
+      <description>Switch, single pole double throw</description>
+      <docs>~</docs>
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">SW_SPDT</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+        <pin num="3" name="C" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="nice_nano" part="nice_nano">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">nice_nano</field>
+      </fields>
+      <pins>
+        <pin num="1" name="TX0/P0.06" type="input"/>
+        <pin num="2" name="RX1/P0.08" type="input"/>
+        <pin num="3" name="GND" type="input"/>
+        <pin num="4" name="GND" type="input"/>
+        <pin num="5" name="P0.17" type="input"/>
+        <pin num="6" name="P0.20" type="input"/>
+        <pin num="7" name="P0.22" type="input"/>
+        <pin num="8" name="P0.24" type="input"/>
+        <pin num="9" name="P1.00" type="input"/>
+        <pin num="10" name="P0.11" type="input"/>
+        <pin num="11" name="P1.04" type="input"/>
+        <pin num="12" name="P1.06" type="input"/>
+        <pin num="13" name="NFC1/P0.09" type="input"/>
+        <pin num="14" name="NFC2/P0.10" type="input"/>
+        <pin num="15" name="P1.11" type="input"/>
+        <pin num="16" name="P1.13" type="input"/>
+        <pin num="17" name="P1.15" type="input"/>
+        <pin num="18" name="AIN0/P0.02" type="input"/>
+        <pin num="19" name="AIN5/P0.29" type="input"/>
+        <pin num="20" name="AIN7/P0.31" type="input"/>
+        <pin num="21" name="VCC" type="input"/>
+        <pin num="22" name="RST" type="input"/>
+        <pin num="23" name="GND" type="input"/>
+        <pin num="24" name="BATIN/P0.04" type="input"/>
+        <pin num="31" name="P1.01" type="input"/>
+        <pin num="32" name="P1.02" type="input"/>
+        <pin num="33" name="P1.07" type="input"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Switch">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Switch.kicad_sym</uri>
+    </library>
+    <library logical="nice_nano">
+      <uri>G:/Keyboards/Thunder-Lightning/nice-nano-kicad/nice_nano.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="BAT_L">
+      <node ref="J1" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW_SPDT_1" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="2" name="BAT_R">
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="SW_SPDT_2" pin="3" pinfunction="C" pintype="passive"/>
+    </net>
+    <net code="3" name="GND">
+      <node ref="J1" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW33" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="SW_RESET2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW_RESET_1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="23" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="3" pinfunction="GND" pintype="input"/>
+      <node ref="U1" pin="4" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="23" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="3" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="4" pinfunction="GND" pintype="input"/>
+    </net>
+    <net code="4" name="L1">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="P0.20" pintype="input"/>
+    </net>
+    <net code="5" name="L2">
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="P1.11" pintype="input"/>
+    </net>
+    <net code="6" name="L3">
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="16" pinfunction="P1.13" pintype="input"/>
+    </net>
+    <net code="7" name="L4">
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="P0.22" pintype="input"/>
+    </net>
+    <net code="8" name="L5">
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="14" pinfunction="NFC2/P0.10" pintype="input"/>
+    </net>
+    <net code="9" name="L6">
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="17" pinfunction="P1.15" pintype="input"/>
+    </net>
+    <net code="10" name="L7">
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="8" pinfunction="P0.24" pintype="input"/>
+    </net>
+    <net code="11" name="L8">
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="NFC1/P0.09" pintype="input"/>
+    </net>
+    <net code="12" name="L9">
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="18" pinfunction="AIN0/P0.02" pintype="input"/>
+    </net>
+    <net code="13" name="L10">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="P1.00" pintype="input"/>
+    </net>
+    <net code="14" name="L11">
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="TX0/P0.06" pintype="input"/>
+    </net>
+    <net code="15" name="L12">
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="19" pinfunction="AIN5/P0.29" pintype="input"/>
+    </net>
+    <net code="16" name="L13">
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="12" pinfunction="P1.06" pintype="input"/>
+    </net>
+    <net code="17" name="L14">
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="P0.11" pintype="input"/>
+    </net>
+    <net code="18" name="L15">
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="P0.17" pintype="input"/>
+    </net>
+    <net code="19" name="L16">
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="20" pinfunction="AIN7/P0.31" pintype="input"/>
+    </net>
+    <net code="20" name="L17">
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="11" pinfunction="P1.04" pintype="input"/>
+    </net>
+    <net code="21" name="R1">
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="15" pinfunction="P1.11" pintype="input"/>
+    </net>
+    <net code="22" name="R2">
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="20" pinfunction="AIN7/P0.31" pintype="input"/>
+    </net>
+    <net code="23" name="R3">
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="TX0/P0.06" pintype="input"/>
+    </net>
+    <net code="24" name="R4">
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="13" pinfunction="NFC1/P0.09" pintype="input"/>
+    </net>
+    <net code="25" name="R5">
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="16" pinfunction="P1.13" pintype="input"/>
+    </net>
+    <net code="26" name="R6">
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="12" pinfunction="P1.06" pintype="input"/>
+    </net>
+    <net code="27" name="R7">
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="5" pinfunction="P0.17" pintype="input"/>
+    </net>
+    <net code="28" name="R8">
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="14" pinfunction="NFC2/P0.10" pintype="input"/>
+    </net>
+    <net code="29" name="R9">
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="17" pinfunction="P1.15" pintype="input"/>
+    </net>
+    <net code="30" name="R10">
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="11" pinfunction="P1.04" pintype="input"/>
+    </net>
+    <net code="31" name="R11">
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="6" pinfunction="P0.20" pintype="input"/>
+    </net>
+    <net code="32" name="R12">
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="18" pinfunction="AIN0/P0.02" pintype="input"/>
+    </net>
+    <net code="33" name="R13">
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="10" pinfunction="P0.11" pintype="input"/>
+    </net>
+    <net code="34" name="R14">
+      <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="7" pinfunction="P0.22" pintype="input"/>
+    </net>
+    <net code="35" name="R15">
+      <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="19" pinfunction="AIN5/P0.29" pintype="input"/>
+    </net>
+    <net code="36" name="R16">
+      <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="9" pinfunction="P1.00" pintype="input"/>
+    </net>
+    <net code="37" name="R17">
+      <node ref="SW34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U2" pin="8" pinfunction="P0.24" pintype="input"/>
+    </net>
+    <net code="38" name="RAW_L">
+      <node ref="SW_SPDT_1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U1" pin="24" pinfunction="BATIN/P0.04" pintype="input"/>
+    </net>
+    <net code="39" name="RAW_R">
+      <node ref="SW_SPDT_2" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="U2" pin="24" pinfunction="BATIN/P0.04" pintype="input"/>
+    </net>
+    <net code="40" name="RST_L">
+      <node ref="SW_RESET_1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U1" pin="22" pinfunction="RST" pintype="input"/>
+    </net>
+    <net code="41" name="RST_R">
+      <node ref="SW_RESET2" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U2" pin="22" pinfunction="RST" pintype="input"/>
+    </net>
+    <net code="42" name="VCC">
+      <node ref="U2" pin="21" pinfunction="VCC" pintype="input"/>
+    </net>
+    <net code="43" name="unconnected-(SW_SPDT_1-A-Pad1)">
+      <node ref="SW_SPDT_1" pin="1" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="44" name="unconnected-(SW_SPDT_2-A-Pad1)">
+      <node ref="SW_SPDT_2" pin="1" pinfunction="A" pintype="passive+no_connect"/>
+    </net>
+    <net code="45" name="unconnected-(U1-P1.01-Pad31)">
+      <node ref="U1" pin="31" pinfunction="P1.01" pintype="input+no_connect"/>
+    </net>
+    <net code="46" name="unconnected-(U1-P1.02-Pad32)">
+      <node ref="U1" pin="32" pinfunction="P1.02" pintype="input+no_connect"/>
+    </net>
+    <net code="47" name="unconnected-(U1-P1.07-Pad33)">
+      <node ref="U1" pin="33" pinfunction="P1.07" pintype="input+no_connect"/>
+    </net>
+    <net code="48" name="unconnected-(U1-RX1{slash}P0.08-Pad2)">
+      <node ref="U1" pin="2" pinfunction="RX1/P0.08" pintype="input+no_connect"/>
+    </net>
+    <net code="49" name="unconnected-(U1-VCC-Pad21)">
+      <node ref="U1" pin="21" pinfunction="VCC" pintype="input+no_connect"/>
+    </net>
+    <net code="50" name="unconnected-(U2-P1.01-Pad31)">
+      <node ref="U2" pin="31" pinfunction="P1.01" pintype="input+no_connect"/>
+    </net>
+    <net code="51" name="unconnected-(U2-P1.02-Pad32)">
+      <node ref="U2" pin="32" pinfunction="P1.02" pintype="input+no_connect"/>
+    </net>
+    <net code="52" name="unconnected-(U2-P1.07-Pad33)">
+      <node ref="U2" pin="33" pinfunction="P1.07" pintype="input+no_connect"/>
+    </net>
+    <net code="53" name="unconnected-(U2-RX1{slash}P0.08-Pad2)">
+      <node ref="U2" pin="2" pinfunction="RX1/P0.08" pintype="input+no_connect"/>
+    </net>
+  </nets>
+</export>
